@@ -43,7 +43,7 @@ class StatisticsService
 	public $uptick;
 
 	public function __construct() {
-		// include '/var/www/html/db-connection.php';
+		 
 		 
 	}
 
